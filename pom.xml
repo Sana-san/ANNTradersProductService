@@ -11,7 +11,7 @@
 	<groupId>in.ibm</groupId>
 	<artifactId>CaseStudy_Product_Service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>CaseStudy_Product_Service</name>
 	<description>Project for AWS Case study</description>
 	<properties>
