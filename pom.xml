@@ -63,7 +63,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>product-service.jar</finalName>
+		<finalName>product-service</finalName>
 	</build>
 	
 
